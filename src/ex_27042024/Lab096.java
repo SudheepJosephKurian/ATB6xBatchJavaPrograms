@@ -1,5 +1,5 @@
 package ex_27042024;
-
+// Check char is vowel, consonant.
 import java.util.Scanner;
 
 public class Lab096 {
